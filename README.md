@@ -1,6 +1,9 @@
 # Python-Codes
 Containing all my python codes from initial for Machine Learning
-This repo is a full backend web development course with python. In the course, you will learn everything you need to know to start your web development journey with Python and Django.
+This repo contains full basics of python and all it's properties. Then it ventures further into the Machine Learning by getting into Web scraping, BeautifulSoup then MatPlotLib and Pandas.
+Rest of the projects are done in Kaggle. 
+All the requied linkes and details are shared below check out.
+Kaggle: https://www.kaggle.com/rishi2003das
 
 ✏️ Course developed by CodeWithTomi. Check out his channel:    / codewithtomi  
 🔗 Join CodeWithTomi's Discord Server:   / discord  
