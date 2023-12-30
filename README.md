@@ -5,6 +5,9 @@ Rest of the projects are done in Kaggle.
 All the requied linkes and details are shared below check out.
 Kaggle: https://www.kaggle.com/rishi2003das
 
+Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!
+
+
 ✏️ Course developed by CodeWithTomi. Check out his channel:    / codewithtomi  
 🔗 Join CodeWithTomi's Discord Server:   / discord  
 
